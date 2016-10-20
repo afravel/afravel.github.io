@@ -1,0 +1,61 @@
+/***************/
+/* YOUR STYLES */
+/***************/
+
+/* Color Palette */
+.color-1 {
+    background: red;
+}
+
+.color-2 {
+    background: white;
+}
+
+.color-3 {
+    background: blue;    
+}
+
+
+/* Textures or Patterns*/
+
+.patter-1 {
+    background: url("../img/American%20Flag.png")
+}
+
+}
+
+/* Imagery */
+
+
+/* Icons */
+
+
+
+
+
+
+/* Navigation */
+a:link;
+a:visited{
+    color: blue;
+    text-transform: uppercase
+}
+
+a:hover {
+    background: red;
+    margin: 10px;
+}
+
+a:hover {
+    color: white;
+    background: blue;
+}
+
+
+/* Typography */
+
+p {
+    
+    font-family: 'Lobster', cursive;
+}
+
