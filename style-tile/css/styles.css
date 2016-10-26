@@ -4,25 +4,41 @@
 
 /* Color Palette */
 .color-1 {
-    background: red;
-}
+    background: #242321;}
 
 .color-2 {
-    background: white;
-}
+    background: #76665f;}
 
 .color-3 {
-    background: blue;    
-}
+    background: #dfd4cf;}
+
+.color-4 {
+    background: #ebe9ea;}
+
+.color-5 {
+    background: #edf3f9;}
+
+
+
 
 
 /* Textures or Patterns*/
 
-.patter-1 {
-    background: url("../img/American%20Flag.png")
-}
+.pattern-1 {
+    background: url(../img/escheresque_ste/escheresque_ste.png); }
 
-}
+.pattern-2 {
+    background: url("../img/tree_bark/tree_bark.png"); }
+
+.pattern-3 {
+    background: url("../img/subtle_white_feathers/subtle_white_feathers.png"); }
+
+.pattern-4 {
+    background: url("../img/mochaGrunge/mochaGrunge.png"); }
+
+.pattern-5 {
+    background: url("../img/dark_wood/dark_wood.png"); }
+
 
 /* Imagery */
 
