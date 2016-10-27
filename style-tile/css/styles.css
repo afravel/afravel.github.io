@@ -25,7 +25,7 @@
 /* Textures or Patterns*/
 
 .pattern-1 {
-    background: url(../img/escheresque_ste/escheresque_ste.png); }
+    background: url("../img/escheresque_ste/escheresque_ste.png"); }
 
 .pattern-2 {
     background: url("../img/tree_bark/tree_bark.png"); }
@@ -70,8 +70,27 @@ a:hover {
 
 /* Typography */
 
-p {
+@import url('https://fonts.googleapis.com/css?family=Pacifico|Playfair+Display');
+
+
+body {
+    font-size: 2em;
+    padding: 1em;
+    width: ;
+      
+}
+
+h1 {
     
-    font-family: 'Lobster', cursive;
+     font-family: 'Pacifico', cursive;
+    color: black;
+}
+
+
+p {
+    font-family:'Playfair Display', serif;
+    color:  black;
+    
+    
 }
 
