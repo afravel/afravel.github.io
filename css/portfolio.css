@@ -1,0 +1,31 @@
+ body {
+    background-color: #dfd4cf;
+}
+
+
+
+nav li {
+  display: inline;
+  padding: 1em;
+  list-style: none;
+}
+
+/* First Frame */
+nav a:link,
+nav a:visited {
+  background: #76665f;
+  color: white;
+  padding: 1em;
+  text-decoration: none;
+  
+  transition:
+    background .5s ease-out,
+    padding .25s cubic-bezier(.32,.82,.9,.62);
+}
+
+
+/* Last Frame */
+nav a:hover {
+  background: #242321;
+  padding-top: .5em;
+}
